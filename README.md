@@ -14,5 +14,5 @@
 	##Running the Test			
     			1. Download the project
 			2. Move to project folder in command prompt (Eg:/Users/Desktop/username/APITesting/) and run the following command : 
-    			**python apiresponse.py 1kosmos**
+    			__python apiresponse.py 1kosmos__
     			Note: Pass tenantId as the argument after filename
